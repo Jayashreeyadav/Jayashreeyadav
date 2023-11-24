@@ -1,7 +1,6 @@
- <h1 align="center">Hey, I'm Jayashree Yadav</h1>
+<h1 align="center">Hi, I'm Jayashree Yadav</h1>
 <h3 align="center">Aspiring Computer Science Graduate | Front end developer</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 - 📫 How to reach me **jayashreeyadav8@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E3kVsX0Cbjkkh-mMOCkTWvzNYkN7eRSq/view?usp=drivesdk](https://drive.google.com/file/d/1E3kVsX0Cbjkkh-mMOCkTWvzNYkN7eRSq/view?usp=drivesdk)
@@ -16,4 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayashreeyadav&show_icons=true&locale=en" alt="jayashreeyadav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashreeyadav&show_icons=true&locale=en&layout=compact" alt="jayashreeyadav" /></p>
